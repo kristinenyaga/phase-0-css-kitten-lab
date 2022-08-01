@@ -1,5 +1,5 @@
 html {
-  background: url(../images/beautiful-day.jpg) no-repeat top center;
+  background: url(../images/beautiful-day.jpg)  top center;
 }
 
 img {
@@ -15,16 +15,16 @@ img {
   margin: 0 auto;
 }
 
-#wheelbarrow, #wheelbarrow-foreground {
-  margin-left: 80px;
-  width: 688px;
+#wheelbarrow, #wheelbarrow-foreground { 
+  margin-left: 0px;
+  width: 678px;
   height: 514px;
 }
 
 #wheelbarrow { 
   position: relative;
   background: url(../images/wheelbarrow.png) no-repeat;
-  z-index: 0;
+  z-index: 1;
   top: 220px;
 }
 #wheelbarrow-foreground {
